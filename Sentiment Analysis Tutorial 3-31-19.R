@@ -3,6 +3,8 @@
 
 LALALALA
 
+SOS PLZ SOMEONE HELP ME ITS NOT HELPING....
+
 #Sentiment Analysis Tutorial: Jane Austen
 # March 31, 2019
 #Exercises from Text Mining with R A Tidy Approach 
